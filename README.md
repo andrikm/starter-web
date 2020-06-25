@@ -25,3 +25,6 @@ Sample website with plenty of files for demos
 
 
 ## How to 3
+
+Edited in branch
+### Copyright
