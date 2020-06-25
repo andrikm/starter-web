@@ -17,6 +17,7 @@ This repository is for showing how Git and GitHub work
 
 ## How to
 
+This is demo test
 
 ## How to 2
 
