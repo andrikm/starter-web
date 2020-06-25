@@ -33,3 +33,5 @@ Sample website with plenty of files for demos
 
 Edited in branch
 ### Copyright
+
+All right reserved
